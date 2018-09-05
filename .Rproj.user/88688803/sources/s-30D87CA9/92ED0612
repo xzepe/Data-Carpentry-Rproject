@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536065995574.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "92ED0612",
+    "lastKnownWriteTime" : 3346849036566623844,
+    "last_content_update" : 1536065995574,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "27A0624A",
+        "caption" : "exercice",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=exercice&cache_key=27A0624A",
+        "displayedObservations" : 17,
+        "environment" : "",
+        "object" : "exercice",
+        "preview" : 0,
+        "totalObservations" : 17,
+        "variables" : 3
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

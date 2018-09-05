@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536062329162.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E356A42C",
+    "lastKnownWriteTime" : 1536071573,
+    "last_content_update" : 1536071573377,
+    "path" : "C:/Users/xzepe/Desktop/Data-Carpentry/data-analysis.R",
+    "project_path" : "data-analysis.R",
+    "properties" : {
+        "cursorPosition" : "78,0",
+        "scrollLine" : "61",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
